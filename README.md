@@ -18,7 +18,7 @@ create a file `.env` in the root directory of the project and add variables with
 
 Then run the bot:
 ```	
-    python3 underworld_bot.py
+python3 underworld_bot.py
 ```
 ## how to use:
 1- Send a message to the bot with the following format:
