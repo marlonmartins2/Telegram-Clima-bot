@@ -2,7 +2,6 @@
 
 ## Configuration:
 Create a virtual environment and install the required packages:
-
     ```
     python3 -m venv venv
     pip install -r requirements.txt
@@ -22,7 +21,7 @@ Then run the bot:
     python3 underworld_bot.py
 ```
 ## how to use:
-    1- Send a message to the bot with the following format:
+1- Send a message to the bot with the following format:
     
 ```
 /start
